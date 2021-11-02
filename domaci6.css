@@ -1,0 +1,36 @@
+div{
+    border: 5px solid black;
+    position: relative;
+    display: inline-block;
+    background-color: burlywood;
+    }
+.prvi{
+    height: 300px;
+    width: 200px;
+    left: 50px;
+    top: 50px;
+    z-index: 0;
+}
+.drugi{
+    height: 350px;
+    width: 500px;
+    top: 200px;
+    z-index: 1;
+    
+}
+.treci{
+    width: 700px;
+    height: 100px;
+    z-index: 2;
+    left: 100px;
+    top: 150px;
+    
+
+}
+.cetvrti{
+    height: 400px;
+    width: 200px;
+    left: 75px;
+    bottom: 200px;
+    z-index: 3;
+}

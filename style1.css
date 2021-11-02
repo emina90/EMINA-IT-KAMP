@@ -1,0 +1,25 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(209, 206, 206);
+    border: 0px solid;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    margin: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px
+
+}
+h1{
+    color: rgb(117, 117, 117);
+    font-size: 15px;
+}
+a{
+    text-decoration: aliceblue;
+    resize: vertical;
+}
+
+
+

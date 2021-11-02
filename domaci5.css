@@ -1,0 +1,52 @@
+ul{
+    list-style: none;
+    background-color: black;
+    color: blanchedalmond;
+    padding-left: 0pt;
+}
+
+
+a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+
+}
+
+.about{
+    float: right;
+
+}
+.home{
+    background-color: green;
+}
+div{
+    width: 350px;
+    height: 350px;
+    border:3px solid rgb(8, 17, 8);
+    display: inline-block;
+    position: relative;
+}
+.prvi{
+    background-color: green;
+    left: 25px;
+    z-index: 2;
+
+}
+.drugi{
+    background-color: indigo;
+    bottom: -350px;
+    z-index: 1;
+}
+.treci{
+    background-color: olive;
+    right: 300px;
+    bottom: -35px;
+    z-index: 3;
+    
+}

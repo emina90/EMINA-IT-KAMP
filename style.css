@@ -1,0 +1,47 @@
+h1{
+    color: rgb(25, 25, 41);
+    text-align:center;
+}
+
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration:underline ;
+    color: rgb(242, 242, 248);
+    text-align: left;
+}
+
+a{
+text-align: center;
+color: blanchedalmond;
+font-size: 40px;
+font-weight: bolder;
+}
+
+.mojaKlasa{
+    background-color: rgb(94, 150, 223);
+    width: 500px;
+    height: 340px;
+    border: 5px solid rgb(3, 29, 78);
+    list-style: round;
+    border-radius: 25px;
+    padding: 20px;
+
+}
+
+.klasa1{
+    background-color: rgb(28, 107, 209);
+    height: 75px;
+    width: 500px;
+}
+
+.klasa2{
+    width: 500px;
+    height: 150px;
+}
+
+.paragraf{
+    font-style: normal;
+    font-size: 15px;
+}

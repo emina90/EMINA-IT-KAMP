@@ -1,0 +1,26 @@
+div{
+    height: 500px;
+    width: 150px;
+    border: 5px solid black;
+    display: inline-block;
+}
+
+.prvi{
+    position: absolute;
+    left: 10px;
+}
+
+.drugi{
+    position: absolute;
+    left: 180px;
+}
+
+.treci{
+    position: absolute;
+    left: 350px;
+}
+
+.cetvrti{
+    position: absolute;
+    left: 530px;
+}
