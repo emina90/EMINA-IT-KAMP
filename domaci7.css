@@ -1,33 +1,18 @@
-
-button{
-    color: gray;
-    width: 50px;
-    
-}
-
-ul{
-    background-color: red;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: gray;
-    list-style: none;
-    overflow: hidden;
-    
-}
-
-li{
-    display:inline-block;
-}
-
-.prva{
-    float: right;
-    
-}
-
 a{
+    width: 75px;
+    height: 150px;
+    background-color: red;
     text-decoration: none;
-}
+    padding: 10px;
+    margin: 5px;
+    display: inline;
+    
 
-.dropdown {
+    
+}
+div{
     position: relative;
-    display: inline-block;
-  }
+    background-color: red;
+    
+    
+}

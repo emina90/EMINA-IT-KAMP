@@ -1,0 +1,15 @@
+div{
+    width: 100%;
+    top: 50px;
+    left: 50px;
+    text-align: center;
+}
+
+.prva{
+    display: inline-block;
+    text-align: center;
+}
+
+label{
+    text-align: left;
+}

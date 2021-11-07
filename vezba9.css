@@ -1,0 +1,23 @@
+table{
+    border:2px solid silver;
+    border-collapse: collapse;
+    width: 750px;
+    height: 500px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.prvi{
+    background-color: silver;
+}
+
+th,
+td{
+    border: 2px solid silver ;
+    text-align: left;
+    padding: 10px;
+}
+
+td:hover{
+    background-color: springgreen;
+    font-style: bold;
+}
