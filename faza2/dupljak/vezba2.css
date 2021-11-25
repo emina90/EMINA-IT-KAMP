@@ -1,0 +1,47 @@
+body{
+    width: 100vw;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: burlywood;
+
+}
+
+
+.conteiner{
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
+.kartica{
+    width: 30%;
+    height: 40vh;
+    border: 1px solid black;
+    border-radius: 10%;
+    box-shadow: 5px 10px #888888;
+    margin-bottom: 20px;
+}
+.kartica1{
+    height: 10vh;
+    width: auto;
+    border-bottom: 1px solid black;
+}
+.kartica2{
+    height: 30vh;
+    width: auto;
+
+}
+button{
+    position: relative;
+    left: 10%;
+    width: 80px;
+    height: 30px;
+}
+
+.dugme{
+    position:relative;
+    
+}

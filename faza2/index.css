@@ -1,0 +1,106 @@
+body{
+    margin: 0%;
+}
+header{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(17, 17, 17);
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: fixed;
+    z-index: 9;
+}
+li{
+    display: inline-block;
+    list-style-type: none;
+    height: 100%;
+    text-align: center;
+    margin-top: 20px;
+
+
+}
+ul{
+    margin: 0%;
+}
+
+.desno{
+    float: right;
+    margin-right: 35px;
+}
+a{
+    text-decoration: none;
+    color: rgb(250, 250, 249);
+}
+
+.sektor1{
+    background-image: url("slika1.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.klh1{
+    
+    position: relative;
+    color: darkgray;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 35%;
+    left: 200px;
+    margin: 0%;
+}
+
+.klp1{
+    position: relative;
+    color: darkgrey;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 38%;
+    left: 200px;
+    margin: 0%;
+}
+
+.dugme1{
+    position: relative;
+    border:3px solid darkgrey;
+    border-radius: 15px;
+    font-size: 22px;
+    background: rgba(122, 122, 255, 0.3);
+    height:50px;
+    width: 220px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 48%;
+    left: 42%;
+}
+.dugme1:hover{
+    background-color: rgba(35, 35, 78, 0.986);
+    transition: 0.75s;
+}
+
+.sektor2{
+    overflow: hidden;
+    background-image: url("slika2.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.klh2{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 50%;
+    left: 125px;
+    margin: 0%;
+}
+.klp2{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 54%;
+    left: 125px;
+    margin: 0%;
+}
+
